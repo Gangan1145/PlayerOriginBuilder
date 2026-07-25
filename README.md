@@ -50,4 +50,4 @@
 
 ## 反馈
 
-- 优先提交 Issue 至插件仓库：[GitHub 链接](https://github.com/ICU-Club/PlayerOriginBuilder.git)
+- 优先提交 Issue 至插件仓库：[[GitHub 链接](https://github.com/ICU-Club/PlayerOriginBuilder.git)](https://github.com/Gangan1145/PlayerOriginBuilder.git)
